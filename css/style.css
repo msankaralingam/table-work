@@ -1,0 +1,16 @@
+table, td, th{
+	border: 3px solid red;
+	border-collapse:collapse;
+	width:50%;
+	height:20px;
+	text-align:center;
+	padding:10px;
+	margin:40px;
+    }
+Section{
+	background-color:orange;
+}
+h1{
+	text-align:center;
+}
+
